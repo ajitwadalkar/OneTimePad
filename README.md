@@ -4,7 +4,7 @@ Implementation of OneTimePad
 To run the project from Linux terminal use following command
 
 ```javac OneTimePad.java  
-java OneTimrPad```
+java OneTimePad  
 //In linux (Well, in my system I am getting a warning which can be ignored.)
 
 This will print the current data in the files and will give you options to choose the function as follows.
